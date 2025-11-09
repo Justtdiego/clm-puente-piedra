@@ -63,7 +63,7 @@ header {
   flex-direction: column;
   text-align: center;
   background: linear-gradient(rgba(10, 25, 47, 0.7), rgba(10, 25, 47, 0.9)),
-    url("img/banner.jpg") center/cover no-repeat;
+    url("images/banner.jpg") center/cover no-repeat;
   color: white;
   padding: 0 20px;
 }
